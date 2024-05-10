@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2a0TmKqTUJoNDYPGhBQpIgbCdr7wOT/zFPUi2EdQDfo0e8i46WuBTeiLsm79bA2VxKx/+RILfuo71/IxYjIeBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\monitor\\monitor\\monitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
